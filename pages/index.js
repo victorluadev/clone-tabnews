@@ -22,8 +22,4 @@ function Home() {
   );
 }
 
-function teste() {
-  console.log("Teste prettier");
-}
-
 export default Home;
